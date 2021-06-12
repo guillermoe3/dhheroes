@@ -1,0 +1,22 @@
+{
+  "name": "dhheroes",
+  "version": "1.0.0",
+  "description": "proyecto DH Heroes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillermoe3/dhheroes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillermoe3/dhheroes/issues"
+  },
+  "homepage": "https://github.com/guillermoe3/dhheroes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
